@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>XcodeTest.xcscheme</key>
+		<key>AudioEvo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5DBA6C891D69665B00DCAA19</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5DBA6CA21D69665C00DCAA19</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5DBA6CAD1D69665C00DCAA19</key>
+		<key>5DAC68CF1F696C8800656C2F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
